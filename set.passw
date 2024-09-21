@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+# sudo useradd -m foxing
+# sudo passwd foxing
+sudo useradd -r sysuser
+cat /etc/passwd | grep sysuser

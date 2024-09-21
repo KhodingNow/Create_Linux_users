@@ -1,0 +1,13 @@
+#!/usr/bin/env Python3
+
+# sudo useradd foxing
+# cat /etc/passwd
+# cat /etc/passwd | wc -l
+# cat /etc/passwd | grep melezwa
+# cat /etc/default/useradd
+# sudo userdel foxing
+# sudo useradd -m foxing
+#sudo userdel -r foxing
+
+sudo useradd -m foxing
+
